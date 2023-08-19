@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://vaibhavdev309.github.io/csb-gh7nst/static/js/main.2f1a1aca.chunk.js",
+    "main.js.map": "https://vaibhavdev309.github.io/csb-gh7nst/static/js/main.2f1a1aca.chunk.js.map",
+    "runtime-main.js": "https://vaibhavdev309.github.io/csb-gh7nst/static/js/runtime-main.ccec4071.js",
+    "runtime-main.js.map": "https://vaibhavdev309.github.io/csb-gh7nst/static/js/runtime-main.ccec4071.js.map",
+    "static/js/2.88831c34.chunk.js": "https://vaibhavdev309.github.io/csb-gh7nst/static/js/2.88831c34.chunk.js",
+    "static/js/2.88831c34.chunk.js.map": "https://vaibhavdev309.github.io/csb-gh7nst/static/js/2.88831c34.chunk.js.map",
+    "index.html": "https://vaibhavdev309.github.io/csb-gh7nst/index.html",
+    "precache-manifest.4bcbd5a64a54e392cb0f37d73a308187.js": "https://vaibhavdev309.github.io/csb-gh7nst/precache-manifest.4bcbd5a64a54e392cb0f37d73a308187.js",
+    "service-worker.js": "https://vaibhavdev309.github.io/csb-gh7nst/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccec4071.js",
+    "static/js/2.88831c34.chunk.js",
+    "static/js/main.2f1a1aca.chunk.js"
+  ]
+}
